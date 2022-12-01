@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "user1@gmail.com",
+      "nombre": "Irenia",
+      "apellido": "Sierra",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": 2,
+      "usuario": "user2@gmail.com",
+      "nombre": "German",
+      "apellido": "Fontecha",
+      "password": "7743900015b6b880f6c937b10780acc2"
+    },
+    {
+      "id": 3,
+      "usuario": "user3@gmail.com",
+      "nombre": "Juan",
+      "apellido": "Pérez ",
+      "password": "94feacb4fb483df71c3790b59ac6f793"
+    },
+    {
+      "id": 4,
+      "usuario": "user4@gmail.com",
+      "nombre": "Jennifer",
+      "apellido": "Sanchez",
+      "password": "732586672f67e2d70dc6f03919651783"
+    },
+    {
+      "id": 5,
+      "usuario": "user5@gmail.com",
+      "nombre": "Farid",
+      "apellido": "Salazar",
+      "password": "7894"
+    },
+    {
+      "nombre": "",
+      "apellido": "",
+      "usuario": "",
+      "password": "",
+      "id": 6
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "fecha": "2021-06-25",
+      "hora": "14:30",
+      "estado": "Guardado",
+      "direccionRecogida": "Carrera 5 # 11-33",
+      "ciudadRecogida": "Buga",
+      "nombreDestinatario": "Rafael Orozco",
+      "cedulaDestinatario": "123456",
+      "direcciónEntrega": "Calle 12 # 18-4",
+      "ciudadEntrega": "Cali",
+      "largo": "40",
+      "alto": "20",
+      "ancho": "10",
+      "peso": "12"
+    },
+    {
+      "id": 2,
+      "fecha": "2021-03-12",
+      "hora": "15:45",
+      "estado": "Cancelado",
+      "direccionRecogida": "Calle 10 # 20-34",
+      "ciudadRecogida": "Tunja",
+      "nombreDestinatario": "Andrea Carvajal",
+      "cedulaDestinatario": "78910",
+      "direcciónEntrega": "Calle 20 # 14-2",
+      "ciudadEntrega": "Bogotá",
+      "largo": "45",
+      "alto": "23",
+      "ancho": "21",
+      "peso": "23"
+    },
+    {
+      "id": 3,
+      "fecha": "2021-02-10",
+      "hora": "09:45",
+      "estado": "Completado",
+      "direccionRecogida": "Carrera 10 # 6-42",
+      "ciudadRecogida": "Montería",
+      "nombreDestinatario": "José Jinete",
+      "cedulaDestinatario": "111213",
+      "direcciónEntrega": "Calle 4 # 11-2",
+      "ciudadEntrega": "Barranquilla",
+      "largo": "10",
+      "alto": "12",
+      "ancho": "14",
+      "peso": "9"
+    },
+    {
+      "id": 4,
+      "fecha": "2021-03-28",
+      "hora": "16:25",
+      "estado": "Guardado",
+      "direccionRecogida": "Calle 11 # 30-22",
+      "ciudadRecogida": "Bello",
+      "nombreDestinatario": "Miguel López",
+      "cedulaDestinatario": "141516",
+      "direcciónEntrega": "Carrera 9 # 10-8",
+      "ciudadEntrega": "Medellín",
+      "largo": "22",
+      "alto": "14",
+      "ancho": "20",
+      "peso": "15"
+    },
+    {
+      "id": 5,
+      "fecha": "2021-06-16",
+      "hora": "11:30",
+      "estado": "Cancelado",
+      "direccionRecogida": "Calle 8 # 12-30",
+      "ciudadRecogida": "Sincelejo",
+      "nombreDestinatario": "Paula Gaviria",
+      "cedulaDestinatario": "171819",
+      "direcciónEntrega": "Carrera 21 # 15-3",
+      "ciudadEntrega": "Cartagena",
+      "largo": "15",
+      "alto": "14",
+      "ancho": "12",
+      "peso": ""
+    }
+  ]
+}
